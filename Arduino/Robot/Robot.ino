@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 #ifndef STASSID
-#define STASSID "Tenda_04CB60"
-#define STAPSK  "283F8C4B1E"
+#define STASSID "SSID"
+#define STAPSK  "MDP"
 #endif
 
 int Enable =3;
